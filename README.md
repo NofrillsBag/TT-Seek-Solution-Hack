@@ -5,6 +5,7 @@ TT-Seek is a smart transit optimization prototype built using the Gemini API, Py
 This project was developed during the MLH x SolutionHacks Hackathon (June 27–29, 2025).
 
 The aim of this project is to assist with the UN's SDG goal #11: Sustainable Cities & Communities
+
 ---
 
 ## 🔍 Project Overview

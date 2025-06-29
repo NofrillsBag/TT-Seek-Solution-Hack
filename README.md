@@ -24,12 +24,10 @@ The app simulates and analyzes transit flow by:
 ## 📦 How to Run the Demo
 
 1. Download the ZIP file from this repository.
-2. Inside, locate the `app/` directory.
-3. Open `run.py` in your preferred Python IDE or compiler.
-4. Run the script.
+2. Open `run.py` in your preferred Python IDE or compiler.
+3. Run the script.
 
 Once running, visit:
 
 ```bash
 http://127.0.0.1:5000/map
-

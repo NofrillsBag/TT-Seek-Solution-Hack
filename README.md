@@ -1,4 +1,4 @@
-# TT-Seek 🚍🧠
+# TT-Seek 🚍🧠 (NEEDS UPDATE, PUSHING IMMEDIATELY)
 
 TT-Seek is a smart transit optimization prototype built using the Gemini API, Python Flask, and Leaflet.js. This project visualizes real-time transit data on a map, estimates foot traffic around bus stops, and uses AI to suggest optimized bus scheduling — including which stops to emphasize or avoid.
 
